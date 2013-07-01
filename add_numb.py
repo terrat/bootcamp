@@ -1,4 +1,5 @@
 
+# This has been authored by Terra but it came from Aleksandra in boot camp.
 def add_two(a,b):
    return a+b
 
